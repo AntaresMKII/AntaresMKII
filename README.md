@@ -1,3 +1,20 @@
-# The sky above the port was the color of a television, tuned to a dead channel
+# AntaresMKII
+## Interests
+Linux and Low Level programming, Programming Language Theory as well
 
-### Hi there 👋
+## Education
+👑 **Master of Science** in **Computing**
+at *Queen's University* Kingston, ON Canada
+(Septermber 2024 - Present)
+
+🍁 **Bachelor of Computer Science Honours**
+at *Carleton University* Ottawa, ON Canada
+(Septermber 2019 - August 2024) (Graduating November 2024)
+
+## Languages and Tools
+- C ❤️
+- C++
+- Haskell :heart:
+- Java
+- SQL (PostgreSQL)
+- Git & GitHub
