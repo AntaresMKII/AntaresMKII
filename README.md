@@ -1,4 +1,4 @@
-# AntaresMKII
+# ✨ AntaresMKII ✨
 ## Interests
 Linux and Low Level programming, Programming Language Theory as well
 
