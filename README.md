@@ -9,7 +9,7 @@ at *Queen's University* Kingston, ON Canada
 
 🍁 **Bachelor of Computer Science Honours**
 at *Carleton University* Ottawa, ON Canada
-(September 2019 - August 2024) (Graduating November 2024)
+(September 2019 - November 2024)
 
 ## Languages and Tools
 - C ❤️
