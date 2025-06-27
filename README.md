@@ -1,6 +1,8 @@
 # ✨ AntaresMKII ✨
 ## Interests
-Linux and Low Level programming, Programming Language Theory as well
+- Linux
+- C programming
+- Programming Language Theory
 
 ## Education
 👑 **Master of Science** in **Computing**
@@ -16,5 +18,7 @@ at *Carleton University* Ottawa, ON Canada
 - C++
 - Haskell :heart:
 - Java
+- Python
+- Rust
 - SQL (PostgreSQL)
 - Git & GitHub
